@@ -119,4 +119,4 @@ This repository is intended **for reference and learning purposes only**. If you
 - **Do Not Copy** this project into your own submissions (you'll probably get caught).  
 - **Use It Responsibly:** Feel free to explore the concepts, analyze the designs, or learn from the structure—then apply these insights to your own unique solutions.
 
-Sharing this code is meant to help you understand computer architecture and project structure, **not** to replace your own effort or violate academic policies. Our competition design was really good (would've came first by a longshot if we hadn't forgotten to print results to the seven segment display), but it could've been even better. It's your job to make it better :) Good luck.
+Sharing this code is meant to help you understand computer architecture and project structure, **not** to replace your own effort or violate academic policies. Our competition design was really good (would've came first by a longshot if we hadn't forgotten to print results to the seven segment display), but it could've been even better. It's your job to make one even better :) Good luck.
