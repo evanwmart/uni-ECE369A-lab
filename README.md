@@ -94,7 +94,7 @@ For the final competition, our team developed a **paralleled variable block size
 - **Complex Module Integration:**  
   Gained experience structuring large Verilog projects, creating reusable modules, and ensuring consistent interfaces.
 - **Team Collaboration:**  
-  Worked closely with peers (@jlujan209, @tgentrup) to integrate and debug large-scale designs in a shared repository.
+  Worked closely with peers ([**@jlujan209**](https://github.com/jlujan209), [**@tgentrup**](https://github.com/tgentrup)) to integrate and debug large-scale designs in a shared repository.
 
 ## Overview / Retrospective
 
